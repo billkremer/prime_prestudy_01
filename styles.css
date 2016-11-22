@@ -1,0 +1,25 @@
+/* https://coolors.co/f6511d-ffb400-00a6ed-7fb800-0d2c54 */
+
+body {
+	background: #00A6ED;
+	text-align: center;
+	font-family: Verdana Sans-serif;
+	background-color: #ffb400;
+	background: radial-gradient(circle at 50% 200px, #ffb400, #0d2c54);
+	height: 1000px;
+}
+
+h1, p {
+	background-color: #f6511d;
+	width: 500px;
+	margin: 30px auto 30px auto;
+	color: #0d2c54;
+}
+
+h1 {
+	font-size: 48px;
+}
+
+p {
+	font-size: 32px;
+}
